@@ -1,0 +1,7 @@
+[package]
+name = "cargo-vendor-win-removal"
+version = "0.1.0"
+authors = ["Gris Ge <fge@redhat.com>"]
+edition = "2018"
+
+[dependencies]
